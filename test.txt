@@ -1,0 +1,10 @@
+ Volume in drive F is SOFTWARES
+ Volume Serial Number is 0C87-9E14
+
+ Directory of F:\newrakeshproject
+
+03/20/2017  11:42 AM    <DIR>          .
+03/20/2017  11:42 AM    <DIR>          ..
+03/20/2017  11:42 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  16,003,551,232 bytes free
